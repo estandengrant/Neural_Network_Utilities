@@ -2,10 +2,10 @@
 
 Module containg functions and tools for constructing a Neural Network and perform forward propagation.
 
-Utils.py contains the following:
+**Utils.py contains the following:**
 - DenseLayer: Construction of a Dense layer of the Network
-- ActivationReLU: Rectified Linear activation class as follows - max(0,X)
-- ActivationSoftMax: Soft Max activation class - exp(X) / sum(exp(X)) where X is an array of inputs.
+- ActivationReLU: Rectified Linear activation class as follows - _max(0,X)_
+- ActivationSoftMax: Soft Max activation class - _exp(X)/sum(exp(X))_ where X is an array of inputs.
 - Loss: Parent class for loss calculations.
 - CCE: function to calculate Catagorical Cross-Entropy.
 
