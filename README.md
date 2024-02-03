@@ -1,4 +1,4 @@
-# NEURAL NETWORKS UTILITIES
+# NEURAL NETWORK UTILITIES
 
 Module containg functions and tools for constructing a Neural Network and perform forward propagation.
 
