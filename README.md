@@ -11,5 +11,5 @@ Module containg functions and tools for constructing a Neural Network and perfor
 
 Utils.py also contains an  example script showing how above tools can be chained to perfom contruction and forward propagation.
 
-[!NOTE]
-Note: Utils.py requires Numpy Python library
+
+_Note: Utils.py requires Numpy Python library_
