@@ -7,7 +7,7 @@ Module containg functions and tools for constructing a Neural Network and perfor
 - ActivationReLU: Rectified Linear activation class as follows - _max(0,X)_
 - ActivationSoftMax: Soft Max activation class - _exp(X)/sum(exp(X))_ where X is an array of inputs.
 - Loss: Parent class for loss calculations.
-- CCE: function to calculate Catagorical Cross-Entropy.
+- CCE: Class to calculate Catagorical Cross-Entropy.
 
 Utils.py also contains an  example script showing how above tools can be chained to perfom contruction and forward propagation.
 
