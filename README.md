@@ -9,7 +9,7 @@ Module containg functions and tools for constructing a Neural Network and perfor
 - Loss: Parent class for loss calculations.
 - CCE: Class to calculate Catagorical Cross-Entropy.
 
-Utils.py also contains an  example script showing how above tools can be chained to perfom contruction and forward propagation.
+Utils.py also contains an  example script showing how above tools can be chained to perfom construction and forward propagation.
 
 
 :bell: _Note: Utils.py requires Numpy Python library_
